@@ -1,2 +1,5 @@
 # ZSAddressPickerDemo
 解析Xml文件做的地址选择器
+
+开始写的是用plist文件写的地址选择器， 因为项目需要，改用Xml问价做的地址选择器，相比ZSAddressPicker，只是解析数据不相同。
+地址选择器使用的是一个china模型
